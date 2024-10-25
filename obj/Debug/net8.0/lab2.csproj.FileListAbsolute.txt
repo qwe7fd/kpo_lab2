@@ -12,3 +12,4 @@ C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\refint\lab2.dll
 C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.pdb
 C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
 C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\ref\lab2.dll
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.sourcelink.json
