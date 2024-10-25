@@ -1,0 +1,14 @@
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\bin\Debug\net8.0\lab2.exe
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\bin\Debug\net8.0\lab2.deps.json
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\bin\Debug\net8.0\lab2.dll
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\bin\Debug\net8.0\lab2.pdb
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.dll
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\refint\lab2.dll
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.pdb
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+C:\Users\porva\Desktop\edu\.prog\.cs\lab2\obj\Debug\net8.0\ref\lab2.dll
