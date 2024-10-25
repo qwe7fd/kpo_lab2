@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|c:\\users\\porva\\desktop\\edu\\.prog\\.cs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|c:\\users\\porva\\desktop\\edu\\.prog\\.cs\\lab2\\lab2\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|solutionrelative:lab2\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|c:\\users\\porva\\desktop\\edu\\.prog\\.cs\\lab2\\lab2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|solutionrelative:lab2\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|c:\\users\\porva\\desktop\\edu\\.prog\\.cs\\lab2\\lab2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6690D379-8C50-48DB-8D3D-B2E5DBDBAF32}|lab2\\lab2.csproj|solutionrelative:lab2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:37:26.702Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\Player.cs",
+              "RelativeDocumentMoniker": "lab2\\Player.cs",
+              "ToolTip": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\Player.cs",
+              "RelativeToolTip": "lab2\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:38:16.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\Game.cs",
+              "RelativeDocumentMoniker": "lab2\\Game.cs",
+              "ToolTip": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\Game.cs",
+              "RelativeToolTip": "lab2\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:38:47.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "States.cs",
+              "DocumentMoniker": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\States.cs",
+              "RelativeDocumentMoniker": "lab2\\States.cs",
+              "ToolTip": "C:\\Users\\porva\\Desktop\\edu\\.prog\\.cs\\lab2\\lab2\\States.cs",
+              "RelativeToolTip": "lab2\\States.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:39:05.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
